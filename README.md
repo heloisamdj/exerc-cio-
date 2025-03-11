@@ -1,7 +1,7 @@
 
 # Landing Page -Let's Snack 🥕🥪
 
-Uma página que tem como obejtivo  apresentar o aplicativo Let's Nack  , seus objetivos , como o app foi criado  , a equipe que desenvolvedora, como funciona  , informações importantes e relevantes que façam as pessoas se interresarem e gostarem do aplicativo.  
+Uma página que tem como obejtivo  apresentar o aplicativo Let's Snack  , seus objetivos , como o app foi criado  , a equipe que desenvolvedora, como funciona  , informações importantes e relevantes que façam as pessoas se interresarem e gostarem do aplicativo.  
 
 ## Autores👩🏻‍💻👨🏻‍💻
 
