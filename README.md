@@ -3,6 +3,7 @@
 
 Uma página que tem como obejtivo  apresentar o aplicativo Let's Snack  , seus objetivos , como o app foi criado  , a equipe que desenvolvedora, como funciona  , informações importantes e relevantes que façam as pessoas se interresarem e gostarem do aplicativo.  
 
+
 ## Autores👩🏻‍💻👨🏻‍💻
 
 - [Beatriz Marioti](https://github.com/beatrizmarioti)
@@ -17,7 +18,9 @@ Uma página que tem como obejtivo  apresentar o aplicativo Let's Snack  , seus o
 - [Enzo Yudi](https://github.com/bsq710/Enzo-Yudi-Rodrigues)
 - [Gustavo Teotônio](https://github.com/Gustavo-Teotonio)
 - [Pedro Schetinni](https://github.com/PedroSchettini)
-## O que foi usado?
+
+
+## O que foi usado🔎?
 
 #### Front end: 🎨
 
@@ -34,12 +37,14 @@ Criação da estrutura das páginas: 🧱
 - JSP e Servlets
 - JDBC e Postgres
 - Maven
+
   
 ## Quais elementos contém? 🪢
 
  - Landing page
  - Home do Dev (CRUD)
  - Link de acesso à área restrita (2º ano)
+
    
 ## Como rodar? 🛝
 
